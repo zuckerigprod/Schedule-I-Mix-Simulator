@@ -1,0 +1,4 @@
+User-Agent: *
+Allow: /
+
+Sitemap: https://schedule.gameassistants.ru/sitemap.xml
